@@ -1,0 +1,5 @@
+ID,Name,Address,Port,numRetries,timeToWaitMS
+1,Client-1,localhost,6666,2,600000
+2,Client-2,localhost,6667,2,600000
+3,Client-3,localhost,6668,2,600000
+4,Client-4,localhost,6669,2,600000
